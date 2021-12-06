@@ -1,0 +1,9 @@
+body{
+    background-color: lightgray;
+}
+#output{
+    width: 100px;
+    background-color: powderblue;
+    margin: 80px auto 80px;
+
+}
